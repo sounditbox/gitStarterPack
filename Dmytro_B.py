@@ -1,2 +1,2 @@
-data = 5445
-print(data)
+data = input("введите целое число:")
+print(int(data))
