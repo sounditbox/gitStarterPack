@@ -1,3 +1,3 @@
-b = "beer"
+b = "beer 2"
 
 print(b)
