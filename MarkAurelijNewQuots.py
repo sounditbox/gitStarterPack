@@ -4,3 +4,8 @@
 
 "Все, что мы слышим, — это мнение, не факт. Все, что мы видим, — это точка зрения, не истина."
 "Mark Aurelij"
+
+import platform
+
+os_name = platform.system()
+print(f'OS name {os_name}')
